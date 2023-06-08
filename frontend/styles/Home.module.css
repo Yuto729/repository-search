@@ -1,0 +1,81 @@
+.container {
+    margin: 0 auto;
+    padding: 0 20px;
+    
+  }
+  
+  .title {
+    margin: 20px 0;
+    color: #333;
+    text-align: center;
+    font-size: 3.5em;
+    font-weight: 400;
+  }
+  
+  .card {
+    margin: 1em 0;
+    border: 1px solid #ffffff;
+    border-radius: 0px;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-bottom: 2px solid black;
+  }
+  
+  .card a {
+    color: #1a0dab;
+    text-decoration: none;
+  }
+  
+  .card a:hover,
+  .card a:focus,
+  .card a:active {
+    text-decoration: underline;
+  }
+  
+  .card h2 {
+    margin: 0 0 0.5em 0;
+    font-size: 1.2em;
+  }
+  
+  .card p {
+    margin: 0;
+    color: #4d5156;
+  }
+  
+  .card .url {
+    color: #048bde;
+    font-size: 0.9em;
+  }
+  
+  
+  .main {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  
+  .form input {
+    border: 2px solid #9f9f9f;
+    margin-left: 50px;
+    margin-right: 0px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+  }
+  
+  .form button {
+    margin-left: 20px;
+    background-color: #3090e5; /* 水色 */
+    color: #ffffff; /* 文字色：黒 */
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 15px; /* 丸みを帯びたボーダー */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25); /* 影を追加 */
+  }
+
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
