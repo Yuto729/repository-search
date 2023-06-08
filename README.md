@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`FastAPI`]([https://fastapi.tiangolo.com/ja/)p]).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`FastAPI`]([https://fastapi.tiangolo.com/ja/]).
 
 ## Getting Started
 
