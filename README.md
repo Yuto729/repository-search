@@ -3,9 +3,11 @@ This is a [Next.js](https://nextjs.org/) and [FastAPI](https://fastapi.tiangolo.
 ## Getting Started
 
 First, run the development server:
-
 ```bash
 uvicorn main:app
+```
+
+```bash
 npm run dev
 # or
 yarn dev
